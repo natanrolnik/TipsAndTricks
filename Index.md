@@ -71,15 +71,18 @@
 ### Miscellaneous
 - `⌥`+ click on a type to show popover documentation
 
+<details>
+<summary>See in Action</summary>
 [![Documentation popover](img/DocumentationPopover.gif)](img/DocumentationPopover.gif)
+</details>
 
 -----
 
 ## <a name="finder"></a> Finder:
 
-- `↵` rename, `space` to quicklook
+- `↵` on a file to rename; `space` to show Quick Look
 - Install [quicklook plugins/extensions](https://github.com/sindresorhus/quick-look-plugins)
-- Folders in Xcode or Finder (or any other **native** mac app using `NSOutlineView`): Click the Arrow+`⌥` to **recursively** collapse or expand nested folders
+- Folders in Xcode or Finder (or any other **native** mac app using `NSOutlineView`): Click the arrow +`⌥` to **recursively** collapse or expand nested folders
 
 [![Recursively expand or collapse folders](img/RecursiveExpandCollapse.gif)](img/RecursiveExpandCollapse.gif)
 - Copy file as path
@@ -103,9 +106,11 @@
 - [Community based repo for scripts](https://github.com/raycast/script-commands)
 
 ### <a name="pastebot"></a> [Pastebot](https://tapbots.com/pastebot):
-- Clipboard History: Never be afraid copying something and losing a copied content
+- Clipboard History: Never be afraid of copying something and losing a copied content
 - Quick Paste
 - Filters: transform clipboard data
+
+-----
 
 ## <a name="legend"></a> Legend
 - `⌘` Command
@@ -117,5 +122,7 @@
 - `↑` Up Arrow
 - `↓` Down Arrow
 - `↵` Enter/return
+
+-----
 
 # Want to add your favorite shortcut(s)? [Add yours here](https://github.com/natanrolnik/TipsAndTricks/blob/master/Index.md).

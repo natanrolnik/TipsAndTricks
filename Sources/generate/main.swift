@@ -27,11 +27,14 @@ func generate() throws {
         try fileManager.removeItem(atPath: output)
     }
 
-    try fileManager.createDirectory(atPath: output, withIntermediateDirectories: true, attributes: [:])
+    try fileManager.createDirectory(atPath: output,
+                                    withIntermediateDirectories: true,
+                                    attributes: [:])
 
     let finalHtml = template.replacingOccurrences(of: "{{body}}", with: toHTML)
     try finalHtml.write(toFile: output.appending("/Index.html"), atomically: true, encoding: .utf8)
     try fileManager.copyItem(atPath: root.appending("/styles.css"), toPath: output.appending("/styles.css"))
+    try fileManager.copyItem(atPath: root.appending("/img"), toPath: output.appending("/img"))
 }
 
 do {

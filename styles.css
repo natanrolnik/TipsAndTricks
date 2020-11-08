@@ -21,6 +21,19 @@ body {
 	text-align: left;
 }
 
+img {
+	max-width: 300px;
+	height: auto;
+	margin-left: auto;
+	margin-right: auto;
+	margin-top: 5px;
+	margin-bottom: 20px;
+	display: block;
+	background-color: #eee;
+	padding: 4px;
+	border-radius: 7px;
+}
+
 header {
 	background-color: #eee;
 }
@@ -192,6 +205,10 @@ footer {
 	header {
 		background-color: #000;
 	}
+	
+	img {
+		background-color: darkgray;
+	}
 }
 
 @media(max-width: 600px) {
@@ -202,5 +219,10 @@ footer {
 	
 	.wrapper {
 		padding: 40px 20px;
+	}
+	
+	img {
+		max-width: 100px;
+		padding: 2px;
 	}
 }

@@ -15,6 +15,8 @@
 - [Apps I Can't Live Without](#apps)
 	- [Raycast](#raycast)
 	- [Pastebot](#pastebot)
+	
+- [Legend](#legend)
 
 -----
 
@@ -68,17 +70,6 @@
 ### Miscellaneous
 - `⌥`+ click on a type to show popover documentation
 
-### Legend
-- `⌘` Command
-- `⇧` Shift
-- `⌥` Option (or Alt)
-- `⌃` Control (or Ctrl)
-- `←` Left Arrow
-- `→` Right Arrow
-- `↑` Up Arrow
-- `↓` Down Arrow
-- `↵` Enter/return
-
 -----
 
 ## <a name="finder"></a> Finder:
@@ -110,5 +101,16 @@
 - Clipboard History: Never be afraid copying something and losing a copied content
 - Quick Paste
 - Filters: transform clipboard data
+
+## <a name="legend"></a> Legend
+- `⌘` Command
+- `⇧` Shift
+- `⌥` Option (or Alt)
+- `⌃` Control (or Ctrl)
+- `←` Left Arrow
+- `→` Right Arrow
+- `↑` Up Arrow
+- `↓` Down Arrow
+- `↵` Enter/return
 
 # Want to add your favorite shortcut(s)? [Add yours here](https://github.com/natanrolnik/TipsAndTricks/blob/master/Index.md).

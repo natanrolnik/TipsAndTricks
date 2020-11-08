@@ -195,6 +195,11 @@ footer {
 }
 
 @media(max-width: 600px) {
+	body {
+		max-width: 94%;
+		margin: 0 3%;
+	}
+	
 	.wrapper {
 		padding: 40px 20px;
 	}

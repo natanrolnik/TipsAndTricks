@@ -34,6 +34,7 @@
 - `⌘`+`⇧`+`O`: Open Quickly
 	- Supports fuzzy search. Ex.: Type `PrCVC` to find **Pr**oduct**C**ollection**V**iew**C**ell
 	- Supports opening the file in a specific line. Ex.: `ViewController.swift:58`
+
 - `⌥`+`⇧`: Choose where to open a file (either from Open Quickly, or when clicking in the Project Navigator)
 - `⌘`+`⇧`+`J`: Show current file in Project Navigator
 - `⌘`+`J`: Move focus of current editor

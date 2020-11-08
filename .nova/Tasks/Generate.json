@@ -1,0 +1,10 @@
+{
+  "actions" : {
+    "build" : {
+      "enabled" : true,
+      "script" : "swift run generate"
+    }
+  },
+  "identifier" : "59D43C99-5D38-44DB-B8CE-A17418C8592E",
+  "openLogOnRun" : "fail"
+}

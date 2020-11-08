@@ -10,11 +10,11 @@ Folders in Xcode or Finder (or any other **native** mac app using `NSOutlineView
 - Use aliases to ease running frequent and/or long commands
 - `xed .` - opens a Workspace (or a Project if a workspace doesn't exists) in the existing directory
 
-## Apps I Can't Live Without 
+## Apps I Can't Live Without
 
 ### [Pastebot](https://tapbots.com/pastebot):
 - Clipboard History: Never be afraid copying something and losing a copied content
-- Quick Paset
+- Quick Paste
 - Filters: transform clipboard data
 
 ### [Raycast](https://raycast.com):

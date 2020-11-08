@@ -86,3 +86,7 @@ Folders in Xcode or Finder (or any other **native** mac app using `NSOutlineView
 - `↑` Up Arrow
 - `↓` Down Arrow
 - `↵` Enter/return
+
+## Contributions
+
+Want to add your favorite shortcut? [Add yours here](https://github.com/natanrolnik/TipsAndTricks/blob/master/Index.md).

@@ -43,12 +43,15 @@
 ### <a name="cursor"></a> Cursor Navigation & Text Selection
 - `⌘`+`↑` or `↓` Move to end/beginning of a file. Combine with `⇧` to select text.
 - `⌘`+`→` or `←` Move to end/beginning of a line. Combine with `⇧` to select text.
-- `⌘`+`⌥`+`→` or `←` Move to end/beginning of a word. Combine with `⇧` to select text.
+- `⌥`+`→` or `←` Move to end/beginning of a word. Combine with `⇧` to select text.
 - `⌘`+`⌃`+`⇧`+`→` or `←` Camel case sensitive text selection
 
 ### <a name="text-editing"></a> Text Editing
 - `⌘`+`L` jump to a specific line
-- `⌘`+`⇧`+`L` Show Library (Code Snippets or IB views)
+- `⌘`+`⇧`+`L` Show Library (Code Snippets or Interface Builder views)
+
+[![Library](img/Library.gif)](img/Library.gif)
+
 - In the Jump bar: You can filter files or function by typing
 - `⌘`+`↑`+`⌃` Show generated Swift interface (Only properties and method declarations)
 - `⌥`+ drag cursor up/down: multiple cursors

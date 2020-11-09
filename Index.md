@@ -28,6 +28,9 @@
 - `⌘`+`1`-`9` Show and switch Navigator tabs
 - `⌘`+`⌥`+`1`-`4` Show and switch Inspector tabs
 - `⌘`+`⇧`+`Y` Open or hide the Console
+
+[![Showing and hiding panels](img/ShowingAndHidingPanels.gif)](img/ShowingAndHidingPanels.gif)
+
 - `⌘`+`⌥`+`J` Filter in current Navigator Tab
 
 ### <a name="navigation"></a> Opening and Navigating Files
@@ -36,7 +39,10 @@
 	- Supports opening the file in a specific line. Ex.: `ViewController.swift:58`
 
 - `⌥`+`⇧` Choose where to open a file (either from Open Quickly, or when clicking in the Project Navigator)
-- `⌘`+`⇧`+`J` Show current file in Project Navigator
+- `⌘`+`⇧`+`J` Reveal file in Project Navigator
+
+[![Reveal In Project Navigator](img/RevealInProjectNavigator.gif)](img/RevealInProjectNavigator.gif)
+
 - `⌘`+`J` Move focus of current editor
 - `⌘`+`⇧`+`D` in the UI Hierarchy Debugger
 

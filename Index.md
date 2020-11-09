@@ -51,12 +51,14 @@
 - `⌘`+`⇧`+`L` Show Library (Code Snippets or IB views)
 - In the Jump bar: You can filter files or function by typing
 - `⌘`+`↑`+`⌃` Show generated Swift interface (Only properties and method declarations)
-- `⌥`+drag cursor up/down: multiple cursors
+- `⌥`+ drag cursor up/down: multiple cursors
 - `⌃`+`I` to automatically indent them
 - `⌘`+`⌥`+`[` or `]` Move a line upwards/downwards
 - `⌘`+`⌥`+`←` or `→` Fold/Unfold (see more variants in Editor > Code Folding)
 - `⌘`+`+` or `-` Increase/Decrease font size
 - `⌘`+`⌃`+`E` Edit All in Scope
+
+[![Edit All in Scope](img/EditInScope.gif)](img/EditInScope.gif)
 
 ### <a name="cleaning"></a> Cleaning
 - `⌘`+`⇧`+`K` Clean build folder
@@ -71,10 +73,7 @@
 ### Miscellaneous
 - `⌥`+ click on a type to show popover documentation
 
-<details>
-<summary>See in Action</summary>
 [![Documentation popover](img/DocumentationPopover.gif)](img/DocumentationPopover.gif)
-</details>
 
 -----
 
@@ -107,7 +106,7 @@
 
 ### <a name="pastebot"></a> [Pastebot](https://tapbots.com/pastebot):
 - Clipboard History: Never be afraid of copying something and losing a copied content
-- Quick Paste
+- Sequential Paste
 - Filters: transform clipboard data
 
 -----

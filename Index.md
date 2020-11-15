@@ -1,4 +1,4 @@
-# The iOS Developer (and macOS?) Power User Cheat Sheet
+# The iOS Developer (and macOS) Cheat Sheet
 
 ## Table of Contents
 
